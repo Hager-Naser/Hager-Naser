@@ -28,7 +28,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST){
         <div class="container mt-5">
             <div class="row">
                 <div class="image col-6">
-                    <img src="image/2.png" class="col-12">
+                    <img src="2.png" class="col-12">
                 </div>
                 <div class="form col-5 offset-1 pt-5">
                     <form action="" method="POST">
